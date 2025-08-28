@@ -24,7 +24,7 @@ Fun and interactive projects using vanilla JavaScript:
 - [To-Do App](https://github.com/SadeghDehyadgari/todo-app)  
 - [Music Player](https://github.com/SadeghDehyadgari/Music-player)  
 - [Calorie Counter](https://github.com/SadeghDehyadgari/calorie-counter)
-- [Statistics Calculator](https://sadeghdehyadgari.github.io/statistics-calculator/)
+- [Statistics Calculator](https://github.com/SadeghDehyadgari/statistics-calculator)
 
 ---
 
