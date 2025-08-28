@@ -21,15 +21,10 @@ Fun and interactive projects using vanilla JavaScript:
 - [Party Fate Decider](https://github.com/SadeghDehyadgari/Party-fate-decider-JS)  
 - [Roman Numeral Converter](https://github.com/SadeghDehyadgari/roman-numeral-converter)  
 - [Dragon Repeller Game](https://github.com/SadeghDehyadgari/dragon-repeller)  
-
----
-
-## ✅ Functional Apps
-More complete apps with practical functionality:
-
 - [To-Do App](https://github.com/SadeghDehyadgari/todo-app)  
 - [Music Player](https://github.com/SadeghDehyadgari/Music-player)  
-- [Calorie Counter](https://github.com/SadeghDehyadgari/calorie-counter)  
+- [Calorie Counter](https://github.com/SadeghDehyadgari/calorie-counter)
+- [Statistics Calculator](https://sadeghdehyadgari.github.io/statistics-calculator/)
 
 ---
 
