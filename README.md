@@ -25,6 +25,7 @@ Fun and interactive projects using vanilla JavaScript:
 - [Music Player](https://github.com/SadeghDehyadgari/Music-player)  
 - [Calorie Counter](https://github.com/SadeghDehyadgari/calorie-counter)
 - [Statistics Calculator](https://github.com/SadeghDehyadgari/statistics-calculator)
+- [Spreadsheet](https://github.com/SadeghDehyadgari/spreadsheet/tree/main)
 
 ---
 
