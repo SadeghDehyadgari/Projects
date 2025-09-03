@@ -26,6 +26,7 @@ Fun and interactive projects using vanilla JavaScript:
 - [Calorie Counter](https://github.com/SadeghDehyadgari/calorie-counter)
 - [Statistics Calculator](https://github.com/SadeghDehyadgari/statistics-calculator)
 - [Spreadsheet](https://github.com/SadeghDehyadgari/spreadsheet/tree/main)
+- [US Phone number validator](https://github.com/SadeghDehyadgari/phone-number-validator/tree/main)
 
 ---
 
