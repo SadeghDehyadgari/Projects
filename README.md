@@ -27,6 +27,7 @@ Fun and interactive projects using vanilla JavaScript:
 - [Statistics Calculator](https://github.com/SadeghDehyadgari/statistics-calculator)
 - [Spreadsheet](https://github.com/SadeghDehyadgari/spreadsheet/tree/main)
 - [US Phone number validator](https://github.com/SadeghDehyadgari/phone-number-validator/tree/main)
+- [Shopping Cart](https://github.com/SadeghDehyadgari/shopping-cart)
 
 ---
 
