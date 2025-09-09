@@ -28,6 +28,7 @@ Fun and interactive projects using vanilla JavaScript:
 - [Spreadsheet](https://github.com/SadeghDehyadgari/spreadsheet/tree/main)
 - [US Phone number validator](https://github.com/SadeghDehyadgari/phone-number-validator/tree/main)
 - [Shopping Cart](https://github.com/SadeghDehyadgari/shopping-cart)
+- [Platformer Game](https://github.com/SadeghDehyadgari/platformer-game/tree/main)
 
 ---
 
